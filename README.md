@@ -6,5 +6,5 @@ Second Repo
 `git init` intialize a new repository  
 `git clone` clones a repository   
 ## Basic Bash command 
-`pwd` print current working directory 
+`pwd` print current working directory   
 `cd` change directory
